@@ -1,5 +1,4 @@
 ultralytics
 streamlit
-cv2
 numpy
-PIL
+Pillow
